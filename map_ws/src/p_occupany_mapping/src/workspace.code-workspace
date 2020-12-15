@@ -1,0 +1,21 @@
+{
+	"folders": [
+		{
+			"path": "../../test"
+		},
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../../../catkin_ws/src/OccupanyMap"
+		},
+		{
+			"path": "../../msg_pub"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"unordered_map": "cpp"
+		}
+	}
+}
